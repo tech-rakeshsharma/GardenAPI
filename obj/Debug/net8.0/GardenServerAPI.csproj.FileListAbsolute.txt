@@ -1,0 +1,243 @@
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\appsettings.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\efpt.config.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.staticwebassets.endpoints.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.exe
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.deps.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.runtimeconfig.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.pdb
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Application.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Domain.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Infrastructure.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Application.pdb
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Domain.pdb
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Infrastructure.pdb
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.csproj.AssemblyReference.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.AssemblyInfoInputs.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.AssemblyInfo.cs
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.csproj.CoreCompileInputs.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.sourcelink.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\scopedcss\bundle\GardenServerAPI.styles.css
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenSe.7A27101B.Up2Date
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\refint\GardenServerAPI.dll
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.pdb
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.genruntimeconfig.cache
+D:\Projects\AarushJannatGarden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\ref\GardenServerAPI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.csproj.AssemblyReference.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.AssemblyInfoInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.AssemblyInfo.cs
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.sourcelink.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\appsettings.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\efpt.config.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenServerAPI.staticwebassets.endpoints.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenServerAPI.exe
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenServerAPI.deps.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenServerAPI.runtimeconfig.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenServerAPI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenServerAPI.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenERP.Application.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenERP.Domain.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenERP.Infrastructure.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenERP.Application.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenERP.Domain.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\bin\Debug\net8.0\GardenERP.Infrastructure.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\scopedcss\bundle\GardenServerAPI.styles.css
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenSe.7A27101B.Up2Date
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\refint\GardenServerAPI.dll
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.pdb
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\GardenServerAPI.genruntimeconfig.cache
+C:\Users\Priyal Malviya\source\repos\GardenWorkRep\GardenServer\obj\Debug\net8.0\ref\GardenServerAPI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\appsettings.Development.json
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\appsettings.json
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\efpt.config.json
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.staticwebassets.endpoints.json
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.exe
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.deps.json
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.runtimeconfig.json
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenServerAPI.pdb
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Azure.Core.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Azure.Identity.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Application.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Domain.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Infrastructure.dll
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Application.pdb
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Domain.pdb
+D:\Garden\AarushJannatGarden\GardenServer\bin\Debug\net8.0\GardenERP.Infrastructure.pdb
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.csproj.AssemblyReference.cache
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.AssemblyInfoInputs.cache
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.AssemblyInfo.cs
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.csproj.CoreCompileInputs.cache
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.sourcelink.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\scopedcss\bundle\GardenServerAPI.styles.css
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenSe.7A27101B.Up2Date
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.dll
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\refint\GardenServerAPI.dll
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.pdb
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\GardenServerAPI.genruntimeconfig.cache
+D:\Garden\AarushJannatGarden\GardenServer\obj\Debug\net8.0\ref\GardenServerAPI.dll

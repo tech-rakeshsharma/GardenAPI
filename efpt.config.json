@@ -1,0 +1,170 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "PerfectGardenAppDBContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "QuizServer",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[perfect_garden].[AuditLog]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Booking]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[BookingCancellation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[BookingDiscount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[BookingService]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Branch]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[DamagePenalty]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Discount]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[EventType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Expense]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[ExpenseCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Hall]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Invoice]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Item]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[ItemCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Offer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[OfferMapping]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Package]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[PackageService]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Payment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Purchase]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[PurchaseDetail]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Refund]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Service]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[ServiceCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[ServicePricing]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Staff]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[StaffAttendance]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[StaffPayment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[StockLedger]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[perfect_garden].[Supplier]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
